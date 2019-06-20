@@ -1,6 +1,8 @@
 # annoyoptimizer
 Annoy distance optimization with facenet and Random Forest algorithms
 
+
+Download models here : "xxx.com"
 Allign your raw data with alligner,extract the features with facenet and create your annoy tree with extracted features.
 
 
