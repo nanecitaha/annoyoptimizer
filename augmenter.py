@@ -41,6 +41,6 @@ class HsvHistogramEqualizationEffect(Effect):
         result = cv2.cvtColor(result, cv2.COLOR_HSV2BGR)
         return result
 
-#Örnek kullanım
+#sample usage
 #nve = NighVisionEffect("nve3", gamma=2.0)
 #img = nve.run(img)
