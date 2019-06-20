@@ -16,4 +16,4 @@ You are ready to go!
 
 ###Many thanks to Spotify development team for annoy
 
-###Other contributors : Many tahnks to Mehmet Ozturk
+###Other contributors : Many thanks to Mehmet Ozturk
